@@ -7,6 +7,24 @@ header {
 	text-align: right;
 }
 
+p {
+	font-size: 1em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 200;
+}
+
+ol {
+	font-size: 1em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 200;
+}
+
+ul {
+	font-size: 1em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 200;
+}
+
 h1 {
 	font-size: 4em;
 	font-family: "Kanit", sans-serif;
@@ -29,6 +47,11 @@ h3 {
 	font-family: "Kanit", sans-serif;
 	color: white;
 	background-color: black;
+}
+
+h4 {
+	font-size: 1em;
+	font-family: "Pacifico", serif;
 }
 
 .content {

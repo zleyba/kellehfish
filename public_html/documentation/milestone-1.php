@@ -3,8 +3,10 @@
 	<head>
 		<meta charset="UTF-8">
 
-		<link href='https://fonts.googleapis.com/css?family=Kanit:400,500italic,100italic,700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Kanit:400,500italic,100italic,200,700' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 		<link type="text/css" href="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/css/style.css" rel="stylesheet" />
+
 		<title>Kellehfish Milestone 1</title>
 	</head>
 	<body>
@@ -44,7 +46,7 @@
 			<div class="profile">
 				<h3>Allix Cohen</h3>
 				<h4>“I’m so excited to get the ball rolling with the upcoming local-women's showcase!”</h4>
-				<img src="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/img/allix.jpg">
+				<img src="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/img/allix.jpg" alt="Allix Cohen">
 			</div>
 
 			<div class="descript">
