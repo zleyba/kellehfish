@@ -38,25 +38,28 @@
 
 		</div>
 		<div class="persona">
+			<h1>p e r s o n a</h1>
+
 
 			<div class="profile">
-				<img src="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/img/allix.jpg">
 				<h3>Allix Cohen</h3>
 				<h4>“I’m so excited to get the ball rolling with the upcoming local-women's showcase!”</h4>
+				<img src="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/img/allix.jpg">
 			</div>
 
 			<div class="descript">
+				<h3>Effective Event Planner</h3>
 			<p> Allix is a goal oriented and task-minded. She wants to iron out the big concrete details quickly so she
 			can handle the little details where her skillset shines the brightest. She’s less concerned about putting her
 			personal stamp on the event she’s throwing and would rather bring in artists who are easy to work with.</p>
 		</div>
 		<div class="needs">
-			Needs
-			<ol>
+			<h3>Needs</h3>
+			<ul>
 				<li>To see the artist’s work
 				<li>To contact the artist
 				<li>To see what the artist has recently been up to
-			</ol>
+			</ul>
 
 			<!--ol>Goals
 				<li>Put together a show featuring exclusively local, female talent.
@@ -85,7 +88,7 @@
 		</div>
 		<br>
 		<div class="content">
-			<h3>Main Scenario</h3>
+			<h3>u s e &nbsp; &nbsp;c a s e</h3>
 
 			<ol>
 				<li>Allix is linked to Kellehfish.net through a colleague on social media and clicks through
@@ -93,7 +96,7 @@
 				<li>After deciding that she would like Kelly to be involved in the show, she hits the contact link and sends an email
 					detailing her interest on behalf of the gallery.
 
-			<h3>Alt Scenario</h3>
+			<h3>Alt c a s e</h3>
 
 					<ol>
 						<li>a. Allix finds kellehfish.net through a search engine query

@@ -25,7 +25,7 @@ h2 {
 }
 
 h3 {
-	font-size 1.5em;
+	font-size: 1.5em;
 	font-family: "Kanit", sans-serif;
 	color: white;
 	background-color: black;
@@ -40,26 +40,55 @@ h3 {
 
 .persona {
 	background-color: white;
+	max-width: 900px;
+	margin-right: auto;
+	margin-left: auto;
 
+
+}
+
+.persona h1 {
+	font-size: 2em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 100;
+	font-style: italic;
+	color: #ffffff;
+	padding: 0;
+	text-align: center;
+	background-color: #ff52ac;
 }
 
 .persona img {
 	max-width: 280px;
 
+
+
 }
 
 .profile {
 	display: inline-block;
-	max-width: 300px;
+	max-width: 290px;
+	height: auto;
+	background-color: white;
 	
 }
 
 .descript {
 	display: inline-block;
-	max-width: 300px;
+	max-width: 290px;
+	height: auto;
+	vertical-align: top;
+	background-color: white;
+
 }
 
 .needs {
 	display: inline-block;
-	max-width: 300px;
+	max-width: 290px;
+	vertical-align: top;
+	background-color: white;
+}
+
+.goals {
+	background-color: white;
 }
