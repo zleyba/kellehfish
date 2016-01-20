@@ -2,6 +2,9 @@
 	<html>
 	<head>
 		<meta charset="UTF-8">
+
+		<link href='https://fonts.googleapis.com/css?family=Kanit:400,500italic,100italic,700' rel='stylesheet' type='text/css'>
+		<link type="text/css" href="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/css/style.css" rel="stylesheet" />
 		<title>Kellehfish Milestone 1</title>
 	</head>
 	<body>
@@ -37,7 +40,7 @@
 		<div class="persona">
 
 			<div class="profile">
-				<img src="img/allix.jpg">
+				<img src="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/img/allix.jpg">
 				<h3>Allix Cohen</h3>
 				<h4>“I’m so excited to get the ball rolling with the upcoming local-women's showcase!”</h4>
 			</div>
@@ -79,6 +82,25 @@
 
 			</div>
 
+		</div>
+		<br>
+		<div class="content">
+			<h3>Main Scenario</h3>
+
+			<ol>
+				<li>Allix is linked to Kellehfish.net through a colleague on social media and clicks through
+				<li>Upon landing on the home page she looks through the gallery
+				<li>After deciding that she would like Kelly to be involved in the show, she hits the contact link and sends an email
+					detailing her interest on behalf of the gallery.
+
+			<h3>Alt Scenario</h3>
+
+					<ol>
+						<li>a. Allix finds kellehfish.net through a search engine query
+						<li>a. Upon landing on the home page, Allix decides she’d like to see what Kelly’s social media
+							presence is like and clicks on one of the three social media buttons
+					</ol>
+				</ol>
 		</div>
 	</body>
 </html>

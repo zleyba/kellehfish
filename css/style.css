@@ -1,0 +1,65 @@
+html {
+	font-size: 16px ;
+}
+
+header {
+	background-color: #ff52ac;
+	text-align: right;
+}
+
+h1 {
+	font-size: 4em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 100;
+	font-style: italic;
+	color: #ffffff;
+	padding: 0;
+
+}
+
+h2 {
+	font-size: 1em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 400;
+
+}
+
+h3 {
+	font-size 1.5em;
+	font-family: "Kanit", sans-serif;
+	color: white;
+	background-color: black;
+}
+
+.content {
+	background-color: #ababb0;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 900px;
+}
+
+.persona {
+	background-color: white;
+
+}
+
+.persona img {
+	max-width: 280px;
+
+}
+
+.profile {
+	display: inline-block;
+	max-width: 300px;
+	
+}
+
+.descript {
+	display: inline-block;
+	max-width: 300px;
+}
+
+.needs {
+	display: inline-block;
+	max-width: 300px;
+}
