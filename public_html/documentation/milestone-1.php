@@ -42,11 +42,42 @@
 				<h4>“I’m so excited to get the ball rolling with the upcoming local-women's showcase!”</h4>
 			</div>
 
-			<div ="descript">
+			<div class="descript">
 			<p> Allix is a goal oriented and task-minded. She wants to iron out the big concrete details quickly so she
 			can handle the little details where her skillset shines the brightest. She’s less concerned about putting her
 			personal stamp on the event she’s throwing and would rather bring in artists who are easy to work with.</p>
 		</div>
+		<div class="needs">
+			Needs
+			<ol>
+				<li>To see the artist’s work
+				<li>To contact the artist
+				<li>To see what the artist has recently been up to
+			</ol>
+
+			<!--ol>Goals
+				<li>Put together a show featuring exclusively local, female talent.
+				<li>Put the show together as fast as possible to begin promotion ASAP
+			</ol-->
+
+			</div>
+
+		<br>
+
+			<div class="goals">
+					<p>Allix is a 29 year old curator for a medium-sized non-profit studio and gallery space in a small
+				metropolitan city in the American west. She’s only lived in this particular city for a few years
+				and she’s still getting to know the local art community, but she has assisted with the curation and
+				planning of a small handful of well-received shows. Recently, the gallery director has taken an indefinite
+				leave of absence and Allix has been tasked with curating a showcase featuring local female artists. She
+				has turned to her Facebook friends and Twitter followers for suggestions, and overwhelmed with responses,
+				has decided that she will pick candidates based on two qualifications, whoever is easiest to contact and
+				book, and whoever has work she enjoys, in that order. While she would prefer to go with candidates whose
+				work she enjoys, she is more likely choose the artists who seem the easiest to work with. She will primarily
+				be doing much of her work on the show case on the desktop supplied by the gallery, but may also peruse
+				possible candidates on the go with her iPad or iPhone+.</p>
+
+			</div>
 
 		</div>
 	</body>
