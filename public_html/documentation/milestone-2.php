@@ -12,7 +12,7 @@
 	<body>
 		<header>
 			<h1>K E L L E H F I S H</h1>
-			<h2>data.design</h2>
+			<h2>site.map</h2>
 		</header>
 
 
@@ -52,11 +52,8 @@
 
 		</div>
 
-
-
-		<br>
 		<div class="content">
-			<h3>c o n t e n t &nbsp;s t r a t e g y</h3>
+			<h3>c o n t e n t &nbsp; s t r a t e g y</h3>
 
 			<p>The homepage will solely consist of navigation to Kelly’s social media account and the other parts of the website. The navigation will be embellished with artwork by Kelly. When users navigate to other pages the navigation bar will shrink down to make screen space for content.</p>
 
@@ -65,16 +62,34 @@
 			<p>The gallery will consist of a scroll wheel of Kelly’s most popular work and a grid of all of her recent work below that. This could potentially be accomplished by pulling her photos from instagram. </p>
 
 			<p>The contact page will consist of a brief list of ways to contact Kelly about inquiries and opportunities.</p>
+		</div>
 
-			<div class="content erd"">
-			<h3>E R D</h3>
+			<div class="content chart"">
+		<h3>i n t e r a c t i o n &nbsp; f l o w</h3>
 
 
 
 
-			<img  src="https://bootcamp-coders.cnm.edu/~zleyba/clinstrument/img/guitarlisting.svg" alt="ERD SVG">
+		<img  src="../img/interactionflow.svg" alt="ERD SVG">
+
+
 
 		</div>
+
+		<div class="content chart"">
+		<h3>w i r e &nbsp; f r a m e s</h3>
+
+
+
+		<img src="../img/kellehfish-index.svg" alt="kellehfish.net index">
+
+		<img src="../img/kellehfish-content.svg" alt="kellehfish.net content">
+
+		<img src="../img/kellehfish-gallery.svg" alt="kellehfish.net gallery">
+
+
+		</div>
+
 
 
 
