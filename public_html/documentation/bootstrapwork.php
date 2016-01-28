@@ -28,6 +28,10 @@
 		<link type="text/css" href="../css/bootstrap.css" rel="stylesheet" />
 	</head>
 	<body>
+		<header class="top">
+			<div class="logo">Logo</div>
+		</header>
+
 		<div class="container">
 
 			<div class="row, hs1">
