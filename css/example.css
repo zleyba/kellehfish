@@ -1,0 +1,14 @@
+.row.hs1 {
+	background-color: #ababb0;
+}
+
+.row.hs1 h1 {
+	font-size: 2em;
+	font-family: "Kanit", sans-serif;
+	font-weight: 100;
+	font-style: italic;
+	color: #ffffff;
+	padding: 0;
+	text-align: center;
+	background-color: #ff52ac;
+}
