@@ -21,3 +21,24 @@ There are some issues with your GitHub repository:
 - Move your CSS directory inside /public_html
 - I don't see any of your image files in GitHub. Be sure all your image files are added to git and committed and pushed to your repository.
 - Link to your internal resources (images, stylesheets) using relative links instead of absolute links. They will look something like this: <code>&lt;img src="img/allix.jpg" alt="Allix Cohen"&gt;</code>
+
+### Milestone 2&alpha; Feedback
+
+&#10004; Create a sitemap outlining the pages you plan to include in your PWP.
+
+&#10004; Document a brief plan or strategy for your content that will support the overall purpose and goal of the site.
+
+&#10004; Map out a simple interaction flow that details the steps a user must take to successfully use your site to acheive the goal.
+
+&#10008; Create a mobile and desktop/laptop wireframe for each page layout.
+
+Awesome job on this Milestone overall, but the mobile wireframes are missing. The layout that I see here will not work very well on mobile as is. Your sitemap, content strategy, and interaction flow are all very good. Don't forget that a simple contact form is required, so plan on integrating one into the contact page. We'll use php and Swiftmailer for this.
+
+Integration with the [Instagram API](https://www.instagram.com/developer/) is out of scope for this project at this time, but might be worth exploring down the line if it offers the functionality you're looking for. The [Swipebox Gallery](http://brutaldesign.github.io/swipebox/) plugin is built in JavaScript/jQuery, and is a great, easy-to-implement, and mobile friendly way of creating an image gallery. There is also the built-in [Bootstrap Carousel](http://getbootstrap.com/javascript/#carousel).
+
+Your HTML and CSS looks great!
+
+Because mobile wireframes are missing, I can only pass this Milestone 2&alpha; at [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) for now. Add mobile layout wireframes and I'll bump it to Tier II. You're clear to start development on your PWP.
+
+#### Edits &amp; Suggestions
+- move the /css /img and /php directories at the site root inside of /public_html, otherwise delete them if they are not in use.
