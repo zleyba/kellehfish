@@ -30,13 +30,51 @@
 	<body>
 		<header class="top">
 			<div class="logo">Logo</div>
+			<ul>
+				<li>Link 1</li>
+				<li>Link 2</li>
+				<li>Link 3</li>
+			</ul>
 		</header>
 
 		<div class="container">
 
-			<div class="row, hs1">
-				<div class="col-md-12"> <h1>content</h1></div>
+			<div class="row">
+
+				<div class="col-md-11 content"> <h1>content</h1></div>
+				<div class="col-md-1"> </div>
 			</div>
+			</div>
+
+			<div class="container">
+
+				<div class="row">
+					<div class="col-md-5 content"> <h1>content</h1></div>
+					<div class="col-md-1"> </div>
+					<div class="col-md-5 content"> <h1>content</h1></div>
+					<div class="col-md-1"> </div>
+					 </div>
+				</div>
+				</div>
+
+				<div class="container">
+
+					<div class="row">
+						<div class="col-md-2 content"> <h2>content</h2></div>
+						<div class="col-md-1"> </div>
+						<div class="col-md-2 content"> <h2>content</h2></div>
+						<div class="col-md-1"> </div>
+						<div class="col-md-2 content"> <h2>content</h2></div>
+						<div class="col-md-1"> </div>
+						<div class="col-md-2 content"> <h2>content</h2></div>
+						<div class="col-md-1"> </div>
+
+					</div>
+
+				</div>
+
+
+
 
 	</body>
 </html>
