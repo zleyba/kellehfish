@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 	<html>
 	<head>
-		<?include_once ("../php/bootstrap_load.html")?>
-		<link type="text/css" href="../css/style.css" rel="stylesheet" />
+		<? include_once ("../php/auto_load.html"); ?>
+		<link rel="stylesheet" href="../css/style.css">
 	</head>
 	<body>
 		<div class="container">
