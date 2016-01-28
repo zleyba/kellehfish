@@ -25,7 +25,7 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-		<link rel="stylesheet" href="../css/example.css">
+		<link type="text/css" href="/css/style.css" rel="stylesheet" />
 	</head>
 	<body>
 		<div class="container">

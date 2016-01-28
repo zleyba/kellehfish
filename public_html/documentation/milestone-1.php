@@ -5,7 +5,7 @@
 
 		<link href='https://fonts.googleapis.com/css?family=Kanit:400,500italic,100italic,200,700' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
-		<link type="text/css" href="https://bootcamp-coders.cnm.edu/~zleyba/kellehfish/css/style.css" rel="stylesheet" />
+		<link type="text/css" href="/css/style.css" rel="stylesheet" />
 
 		<title>Kellehfish Milestone 1</title>
 	</head>
