@@ -24,6 +24,13 @@
 		</script>
 		<!--end gallery support-->
 
+		<!--Nav bar Scripts-->
+		<link rel="stylesheet" href="../public_html/css/navbar.css">
+		<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
+		<script type='text/javascript' src='../public_html/js/jquery.ba-hashchange.min.js'></script>
+		<script type='text/javascript' src='../public_html/js/dynamicpage.js'></script>
+		<!--end nav bar scripts-->
+
 <link type="text/css" href="../public_html/css/kfcss.css" rel="stylesheet" />
 <title>The Personal Website of Illustrator Kelly Williams</title>
 </head>
@@ -45,8 +52,8 @@
 
 					<div class="col-md-10">
 						<ul>
-							<li><a class="btn btn-default" href="#" role="button">h o m e</a></li>
-							<li><a class="btn btn-default" href="#" role="button">w o r k</a></li>
+							<li><a class="btn btn-default" href="index.php" role="button">h o m e</a></li>
+							<li><a class="btn btn-default" href="gallery.php" role="button">w o r k</a></li>
 							<li><a class="btn btn-default" href="#" role="button">a b o u t</a></li>
 							<li><a class="btn btn-default" href="#" role="button">c o n t a c t</a></li>
 						</ul>
@@ -107,20 +114,19 @@
 		<div class="row">
 			<div class="col-md-4 gallery box">
 
-				<a href="http://swipebox.csag.co/images/image-1.jpg" class="swipebox" title="Fog">
-					<img src="http://swipebox.csag.co/images/image-1.jpg" alt="image">
+				<a href="../public_html/img/img-7.jpg" class="swipebox" title="Finga toez">
+					<img src="../public_html/img/img-7.jpg" alt="image">
 					</a>
 			</div>
 
 			<div class="col-md-4 gallery box">
-				<a href="http://swipebox.csag.co/images/image-2.jpg" class="swipebox" title="City">
-					<img src="http://swipebox.csag.co/images/image-2.jpg" alt="image">
+				<a href="../public_html/img/img-8.jpg" class="swipebox" title="A plan?">
+					<img src="../public_html/img/img-8.jpg" alt="image">
 				</a>
 			</div>
 			<div class="col-md-4 gallery box">
-				<a href="http://swipebox.csag.co/images/image-4.jpg" class="swipebox" title="Mustache Guy">
-					<img src="http://swipebox.csag.co/images/image-4.jpg" alt="image">
-				</a>
+				<a href="../public_html/img/img-9.jpg" class="swipebox" title="(...)">
+					<img src="../public_html/img/img-9.jpg" alt="image">a>
 			</div>
 		</div>
 
