@@ -37,6 +37,7 @@ nav ul li {
 	width: 30px;
 	height: 30px;
 	background: url(../img/iglogo.png) center top no-repeat;
+	text-decoration-color: transparent;
 }
 
 

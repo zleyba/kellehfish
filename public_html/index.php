@@ -20,7 +20,7 @@
 				<hr>
 				<nav>
 					<ul>
-						<li><a class="iglogo" href="#"><img src="../public_html/img/iglogo.png"></a></li>
+						<li><a class="iglogo" href="#">IG</a></li>
 					<ul>
 						<li><a class="btn btn-default" href="#" role="button">Home</a></li>
 						<li><a class="btn btn-default" href="#" role="button">Work</a></li>
