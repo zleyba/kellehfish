@@ -4,14 +4,16 @@ html {
 }
 
 .container h1 {
-	font-family: "raleway", sans-serif;
-	font-weight: 100;
+	font-family: "didot", serif;
+	/*font-family: "raleway", sans-serif;*/
+	/*font-weight: 100;*/
 	font-size: 6em;
 	text-align: center;
 }
 
 nav ul {
 	text-align: right;
+
 }
 
 
@@ -32,12 +34,37 @@ nav ul li {
 	border: 0;
 }
 
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+
+/***
+ * ZALeyba Social
+ * Reactive Social Media Icons
+ * hover state color inversion
+ ***/
+
 .iglogo {
-	display: block;
+	display: inline-block;
 	width: 30px;
 	height: 30px;
 	background: url(../img/iglogo.png) center top no-repeat;
-	text-decoration-color: transparent;
+
 }
 
 
@@ -49,12 +76,18 @@ nav ul li {
 .tumblrlogo {
 	width: 30px;
 	height:30px;
-	display:block;
+	display: inline-block;
 	background:transparent url('../img/tumblrlogo.png') center top no-repeat;
 }
 
 .tumblrlogo:hover {
-	background-image: url('..//img/tumblr-alt.png');
+	background-image: url('../img/tumblr-alt.png');
 
 }
 
+footer {
+	height: 50px;
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+}
