@@ -9,7 +9,19 @@ html {
 	/*font-weight: 100;*/
 	font-size: 6em;
 	text-align: center;
+	opacity: 1;
 }
+
+header {
+	position: fixed;
+	z-index: 9999;
+	background: url('../img/bg1.png');
+	background-repeat:repeat;
+	min-width: 100%;
+}
+
+
+
 
 nav ul {
 	text-align: right;
@@ -20,7 +32,13 @@ nav ul {
 nav ul li {
 	display: inline;
 
+
 }
+
+main {
+	margin-top: 200px;
+}
+
 .btn {
 	text-shadow: 0 0 0 #fff;
 	background-image: none;

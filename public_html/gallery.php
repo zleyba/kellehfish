@@ -5,7 +5,7 @@
 * Date: 2/2/16
 * Time: 10:24 AM
 -->
-	<html>
+<html xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="UTF-8">
 		<?php require_once(dirname(__DIR__) . "/public_html/lib/head-tags.html"); ?>
@@ -59,6 +59,8 @@
 
 	</header>
 
+
+		<main>
 		<!--gallery code starts here-->
 
 	<div class="container" id="box-container">
@@ -124,6 +126,7 @@
 
 	</div>
 	</div>
+	</main>
 
 
 
