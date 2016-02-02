@@ -8,8 +8,12 @@
 	<html>
 	<head>
 		<meta charset="UTF-8">
-
-		<link type="text/css" href="../css/kfcss.css" rel="stylesheet" />
-
+		<?php require_once(dirname(__DIR__) . "/public_html/lib/head-tags.html"); ?>
+		<link type="text/css" href="../public_html/css/kfcss.css" rel="stylesheet" />
+		<title>The Personal Website of Illustrator Kelly Williams</title>
 	</head>
+	<body>
+
+		<h1>KELLEHFISH</h1>
+	</body>
 </html>
