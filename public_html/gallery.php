@@ -28,8 +28,9 @@
 <title>The Personal Website of Illustrator Kelly Williams</title>
 </head>
 <body>
+	<div class="sfooter">
 	<header>
-		<div class="sfooter container">
+		<div class="container">
 			<h1>kellehfish</h1>
 			<hr>
 			<nav>
@@ -54,39 +55,76 @@
 				</div>
 			</nav>
 
-		</div>
+
 
 	</header>
 
+		<!--gallery code starts here-->
 
-	<div class="sfooter-content container">
+	<div class="container" id="box-container">
 		<div class="wrap small-width">
 			<div id="try"></div>
-			<ul id="box-container">
-				<li class="box">
-					<a href="http://swipebox.csag.co/images/image-1.jpg" class="swipebox" title="Fog">
-						<img src="http://swipebox.csag.co/images/image-1.jpg" alt="image">
+			<div class="row">
+				<div class="col-md-4 gallery box">
+
+						<a href="../public_html/img/img-1.jpg" class="swipebox" title="Sword">
+							<img src="../public_html/img/img-1.jpg" alt="image">
+							</a>
+					</div>
+
+				<div class="col-md-4 gallery box">
+					<a href="../public_html/img/img-2.jpg" class="swipebox" title="Snow">
+						<img src="../public_html/img/img-2.jpg" alt="image">
+						</a>
+				</div>
+				<div class="col-md-4 gallery box">
+					<a href="../public_html/img/img-3.jpg" class="swipebox" title="Gwen">
+						<img src="../public_html/img/img-3.jpg" alt="image">
 					</a>
-				</li>
-				<li class="box">
-					<a href="http://swipebox.csag.co/images/image-2.jpg" class="swipebox" title="City">
-						<img src="http://swipebox.csag.co/images/image-2.jpg" alt="image">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 gallery box">
+					<a href="../public_html/img/img-4.jpg" class="swipebox" title="Grimes">
+						<img src="../public_html/img/img-4.jpg" alt="image">
+						</a>
+					</div>
+				<div class="col-md-4 gallery box">
+					<a href="../public_html/img/img-5.jpg" class="swipebox" title="Stabby">
+						<img src="../public_html/img/img-5.jpg" alt="image">
 					</a>
-				</li>
-				<li class="box">
-					<a href="http://swipebox.csag.co/images/image-3.jpg" class="swipebox" title="Street">
-						<img src="http://swipebox.csag.co/images/image-3.jpg" alt="image">
+				</div>
+
+				<div class="col-md-4 gallery box">
+					<a href="../public_html/img/img-6.jpg" class="swipebox" title="Camper Pups">
+						<img src="../public_html/img/img-6.jpg" alt="image">
+						</a>
+					</div>
+				</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4 gallery box">
+
+				<a href="http://swipebox.csag.co/images/image-1.jpg" class="swipebox" title="Fog">
+					<img src="http://swipebox.csag.co/images/image-1.jpg" alt="image">
 					</a>
-				</li>
-				<li class="box">
-					<a href="http://swipebox.csag.co/images/image-4.jpg" class="swipebox" title="Mustache Guy">
-						<img src="http://swipebox.csag.co/images/image-4.jpg" alt="image">
-					</a>
-				</li>
-			</ul>
+			</div>
+
+			<div class="col-md-4 gallery box">
+				<a href="http://swipebox.csag.co/images/image-2.jpg" class="swipebox" title="City">
+					<img src="http://swipebox.csag.co/images/image-2.jpg" alt="image">
+				</a>
+			</div>
+			<div class="col-md-4 gallery box">
+				<a href="http://swipebox.csag.co/images/image-4.jpg" class="swipebox" title="Mustache Guy">
+					<img src="http://swipebox.csag.co/images/image-4.jpg" alt="image">
+				</a>
+			</div>
 		</div>
 
 	</div>
+	</div>
+
 
 
 	<footer>
