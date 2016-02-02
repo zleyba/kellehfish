@@ -1,0 +1,59 @@
+html {
+	background-color: #ffffff;
+	font-size: 16px;
+}
+
+.container h1 {
+	font-family: "raleway", sans-serif;
+	font-weight: 100;
+	font-size: 6em;
+	text-align: center;
+}
+
+nav ul {
+	text-align: right;
+}
+
+
+nav ul li {
+	display: inline;
+
+}
+.btn {
+	text-shadow: 0 0 0 #fff;
+	background-image: none;
+
+
+}
+
+.btn-default{
+	font-family: "raleway", sans-serif;
+	background-color: #ffffff;
+	border: 0;
+}
+
+.iglogo {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url(../img/iglogo.png) center top no-repeat;
+}
+
+
+.iglogo:hover {
+	background-image: url('../img/instagram-alt.png');
+
+}
+
+.tumblrlogo {
+	width: 30px;
+	height:30px;
+	display:block;
+	background:transparent url('../img/tumblrlogo.png') center top no-repeat;
+}
+
+.tumblrlogo:hover {
+	background-image: url('..//img/tumblr-alt.png');
+
+}
+
