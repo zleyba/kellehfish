@@ -21,7 +21,9 @@ header {
 	max-height: 200px;
 }
 
-
+#social ul li {
+	display: inline;
+}
 
 
 nav ul {

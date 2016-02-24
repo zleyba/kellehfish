@@ -67,10 +67,12 @@
 	</header>
 
 
-		<main>
+		<main id="main-content">
+			<div id="guts">
 		<!--gallery code starts here-->
 
 	<div class="container" id="box-container">
+
 		<div class="wrap small-width">
 			<div id="try"></div>
 			<div class="row">
@@ -130,6 +132,7 @@
 			</div>
 		</div>
 
+	</div>
 	</div>
 	</div>
 	</main>
