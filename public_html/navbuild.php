@@ -50,25 +50,50 @@
 		<title>The Personal Website of Illustrator Kelly Williams</title>
 
 	</head>
-	<body class="sfooter">
+	<body>
+
 		<header>
+			<nav class="navbar navbar-default nav container">
 
 
+					<div class="title stitle">
+						kellehfish
+					</div>
+					<!-- Nav Burger :3 -->
+				<div class="row">
+					<div class="ptitle">
+						kellehfish
+					</div>
 
-			<div class="navbar nav container">
 
-				<div class="title stitle">
-					kellehfish
+				<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+
 				</div>
+					</div>
+
+
+
+<!--			<div class="collapse navbar-collapse" id="bs-navbar-collapse-1">-->
+
+
+				<div class="row collapse navbar-collapse" id="bs-navbar-collapse-1"">
+				<div class="col-md-7">
 
 					<ul class="socnav">
 						<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>
 						<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a> </li>
 					</ul>
+				</div>
 
 
+				<div class="col-md-5">
 				<ul class="nav">
-
 					<li class="item">
 						<a href="navbuild.php">Home</a>
 					</li>
@@ -85,17 +110,20 @@
 						<a href="#" class="contact">contact</a>
 					</li>
 				</ul>
+					</div>
+
+<!--</div>-->
+				</div>
+
+					</nav>
 
 
-
-			</div>
-			</div>
 
 
 
 		</header>
 
-
+		<div class="mainContent">
 
 		<main id="main-content sfooter-content">
 			<div id="guts">
@@ -171,7 +199,7 @@
 
 
 		</main>
-
+</div>
 
 
 		<footer>

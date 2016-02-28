@@ -69,7 +69,7 @@
 
 
 			<main class="content" id="main-content">
-				<div id="guts">
+
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vulputate diam. Cras tincidunt eros lorem, ut
 					convallis mi sodales eget. Sed imperdiet, elit congue iaculis placerat, leo diam vestibulum ipsum, non efficitur
 					purus ipsum sit amet risus. Duis vel dui quis ipsum volutpat mollis. Pellentesque varius sem vel nulla auctor,
