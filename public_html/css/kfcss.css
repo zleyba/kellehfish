@@ -6,8 +6,6 @@ html {
 
 .container h1 {
 	font-family: "didot", serif;
-	/*font-family: "raleway", sans-serif;*/
-	/*font-weight: 100;*/
 	font-size: 6em;
 	text-align: center;
 	opacity: 1;
@@ -76,19 +74,17 @@ body {
 	width: 100%;
 }
 ​
-.mainContent {
-	flex: 1 0 auto;
+
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
-/*.sfooter {*/
-	/*display: flex;*/
-	/*flex-direction: column;*/
-	/*min-height: 100vh;*/
-/*}*/
-
-/*.sfooter-content {*/
-	/*flex: 1 0 auto;*/
-/*}*/
+.sfooter-content {
+	flex: 1 0 auto;
+}
 
 /***
  * ZALeyba Social

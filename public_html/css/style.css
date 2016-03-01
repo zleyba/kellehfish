@@ -1,32 +1,3 @@
-/*
-	 CSS-Tricks Example
-	 by Chris Coyier
-	 http://css-tricks.com
-*/
-
-* { margin: 0; padding: 0; }
-html { overflow-y: scroll; }
-/*body { font: 12px/1.4 Helvetica, sans-serif; background: #333; color: #333; }*/
-.group:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
-.group { display: inline-block; clear: both; }
-/* start commented backslash hack \*/ * html .group { height: 1%; } .group { display: block; } /* close commented backslash hack */
-article, aside, figure, footer, header, hgroup, menu, nav, section { display: block; }
-a:focus { outline: 0; }
-
-#page-wrap {
-	width: 500px; margin: 40px auto 5px; background: #91c7ff;
-	padding: 8px;
-	background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ccc));
-	background: -moz-linear-gradient(top,  #eee,  #ccc);
-	-webkit-border-radius: 16px;
-	-moz-border-radius: 16px;
-}
-
-#main-content {
-	padding: 14px;
-	margin-top: 150px;
-
-}
 
 /***
 *CSS for dynamic header
@@ -253,30 +224,3 @@ header {
 	margin-right: 5%;
 	transition: 0.5s ease;
 }
-/**
-** this section of css fixes the nav bar to the top
-
-
-.main-nav,
-.main {
-	position: relative;
-}
-.main-nav {
-
-	z-index: 150;
-	margin-bottom: -80px;
-
-}
-header,
-.main-nav-scrolled {
-	position: fixed;
-	width: 100%;
-	top: 0;
-}
-.main {
-	background: #f2f2e8;
-	padding: 110px 50px 50px;
-	column-count: 2;
-	column-gap: 40px;
-}
-**/

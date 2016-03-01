@@ -51,7 +51,7 @@
 
 	</head>
 	<body class="sfooter">
-<div class="sfooter-content">
+<header class="sfooter-content">
 
 			<nav class="navbar navbar-default nav container">
 
@@ -181,13 +181,13 @@
 							</div>
 							<div class="col-md-4 gallery box">
 								<a href="../public_html/img/img-9.jpg" class="swipebox" title="(...)">
-									<img src="../public_html/img/img-9.jpg" alt="image">a>
+									<img src="../public_html/img/img-9.jpg" alt="image"></a>
 							</div>
 						</div>
 
 					</div>
 				</div>
-		</div>
+		</header>
 				</div>
 
 

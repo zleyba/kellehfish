@@ -5,7 +5,7 @@
 * Date: 2/2/16
 * Time: 10:24 AM
 -->
-<html xmlns="http://www.w3.org/1999/html">
+<html>
 	<head>
 		<meta charset="UTF-8">
 		<?php require_once(dirname(__DIR__) . "/public_html/lib/head-tags.html"); ?>
@@ -16,6 +16,7 @@
 		<link rel="stylesheet" href="../public_html/css/swipebox.css">
 		<script src="../public_html/lib/jquery-2.1.0.min.js"></script>
 		<script src="../public_html/js/jquery.swipebox.js"></script>
+
 		<script type="text/javascript">
 			;( function( $ ) {
 
@@ -26,13 +27,6 @@
 		<!--end gallery support-->
 
 		<!--Nav bar Scripts-->
-
-		<!--Dynamic Loading Script Start-->
-
-
-		<script type='text/javascript' src='../public_html/js/dynamicpage.js'></script>
-		<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-		<!--Dynamic Loading Script End-->
 
 		<!--Navbar Transformation script-->
 		<script type="text/javascript" src="../public_html/js/navtransform.js"></script>
@@ -50,7 +44,7 @@
 
 	</head>
 	<body class="sfooter">
-
+		<div class="sfooter-content">
 		<header>
 			<nav class="navbar navbar-default nav container">
 
@@ -115,10 +109,9 @@
 
 		</header>
 
-		<div class="mainContent">
 
-		<main class="sfooter-content">
-			<div id="guts">
+		<main>
+
 				<!--gallery code starts here-->
 
 				<div class="container" id="box-container">
@@ -192,6 +185,7 @@
 
 		</main>
 </div>
+
 
 
 		<footer>
