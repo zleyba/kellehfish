@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <!--
  * Created by PhpStorm.
  * User: zleyba
@@ -48,21 +48,37 @@
 		<link rel="stylesheet" href="../public_html/css/style.css" />
 
 		<title>The Personal Website of Illustrator Kelly Williams</title>
+
 	</head>
 	<body class="sfooter">
-		<header>
+<div class="sfooter-content">
 
-			<div class="row">
+			<nav class="navbar navbar-default nav container">
 
-				<div class="navbar container">
-					<div class="row">
-						<div class="title stitle">
+
+				<div class="title stitle">
+					kellehfish
+				</div>
+				<!-- Nav Burger :3 -->
+				<div class="row">
+					<div class="col-xs-2">
+						<div class="ptitle">
 							kellehfish
-
 						</div>
-						<div class="row">
+					</div>
 
-							<div class="ptitle">kellehfish</div>
+					<div class="col-xs-10">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+					</div>
+					<div class="row">
+						<div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
 
 							<ul class="nav">
 								<li class="item">
@@ -82,63 +98,109 @@
 								</li>
 							</ul>
 
+							<ul class="socnav">
+								<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>
+								<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a></li>
+							</ul>
+						</div>
+					</div>
+
+
+
+
+			</nav>
+
+
+
+
+
+		</header>
+
+		<div class="mainContent">
+
+			<main id="main-content">
+
+					<!--gallery code starts here-->
+
+
+
+					<div class="container" id="box-container">
+
+						<div class="wrap small-width">
+							<div id="try"></div>
+							<div class="row">
+								<div class="col-md-4 gallery box">
+
+									<a href="../public_html/img/img-1.jpg" class="swipebox" title="Sword">
+										<img src="../public_html/img/img-1.jpg" alt="image">
+									</a>
+								</div>
+
+								<div class="col-md-4 gallery box">
+									<a href="../public_html/img/img-2.jpg" class="swipebox" title="Snow">
+										<img src="../public_html/img/img-2.jpg" alt="image">
+									</a>
+								</div>
+								<div class="col-md-4 gallery box">
+									<a href="../public_html/img/img-3.jpg" class="swipebox" title="Gwen">
+										<img src="../public_html/img/img-3.jpg" alt="image">
+									</a>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-4 gallery box">
+									<a href="../public_html/img/img-4.jpg" class="swipebox" title="Grimes">
+										<img src="../public_html/img/img-4.jpg" alt="image">
+									</a>
+								</div>
+								<div class="col-md-4 gallery box">
+									<a href="../public_html/img/img-5.jpg" class="swipebox" title="Stabby">
+										<img src="../public_html/img/img-5.jpg" alt="image">
+									</a>
+								</div>
+
+								<div class="col-md-4 gallery box">
+									<a href="../public_html/img/img-6.jpg" class="swipebox" title="Camper Pups">
+										<img src="../public_html/img/img-6.jpg" alt="image">
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 gallery box">
+
+								<a href="../public_html/img/img-7.jpg" class="swipebox" title="Finga toez">
+									<img src="../public_html/img/img-7.jpg" alt="image">
+								</a>
+							</div>
+
+							<div class="col-md-4 gallery box">
+								<a href="../public_html/img/img-8.jpg" class="swipebox" title="A plan?">
+									<img src="../public_html/img/img-8.jpg" alt="image">
+								</a>
+							</div>
+							<div class="col-md-4 gallery box">
+								<a href="../public_html/img/img-9.jpg" class="swipebox" title="(...)">
+									<img src="../public_html/img/img-9.jpg" alt="image">a>
+							</div>
 						</div>
 
 					</div>
 				</div>
+		</div>
+				</div>
 
 
+			</main>
+		</div>
 
-			</div>
-		</header>
-
-
-
-		<main id="main-content sfooter-content">
-
-				<!--gallery code starts here-->
-
-				<div class="container" id="box-container">
-
-					<div class="row">
-						<div class="col-md-12">
-							<p>Schlitz keytar forage beard scenester, kitsch four loko 90's microdosing asymmetrical direct trade. Narwhal
-								health goth raw denim intelligentsia beard aesthetic. Keytar VHS schlitz, leggings pork belly XOXO synth viral
-								sartorial biodiesel. Aesthetic ennui wolf pabst, you probably haven't heard of them fap fashion axe butcher distillery.
-								Locavore kale chips butcher, you probably haven't heard of them ethical marfa readymade vice leggings franzen green
-								juice affogato organic. Meditation vinyl man braid kinfolk brunch, polaroid you probably haven't heard of them.
-								Pabst actually before they sold out humblebrag vegan stumptown..</p>
-
-							<p>Schlitz keytar forage beard scenester, kitsch four loko 90's microdosing asymmetrical direct trade. Narwhal
-								health goth raw denim intelligentsia beard aesthetic. Keytar VHS schlitz, leggings pork belly XOXO synth viral
-								sartorial biodiesel. Aesthetic ennui wolf pabst, you probably haven't heard of them fap fashion axe butcher distillery.
-								Locavore kale chips butcher, you probably haven't heard of them ethical marfa readymade vice leggings franzen green
-								juice affogato organic. Meditation vinyl man braid kinfolk brunch, polaroid you probably haven't heard of them.
-								Pabst actually before they sold out humblebrag vegan stumptown..</p>
-
-							<p>Schlitz keytar forage beard scenester, kitsch four loko 90's microdosing asymmetrical direct trade. Narwhal
-								health goth raw denim intelligentsia beard aesthetic. Keytar VHS schlitz, leggings pork belly XOXO synth viral
-								sartorial biodiesel. Aesthetic ennui wolf pabst, you probably haven't heard of them fap fashion axe butcher distillery.
-								Locavore kale chips butcher, you probably haven't heard of them ethical marfa readymade vice leggings franzen green
-								juice affogato organic. Meditation vinyl man braid kinfolk brunch, polaroid you probably haven't heard of them.
-								Pabst actually before they sold out humblebrag vegan stumptown..</p>
-
-							<p>Schlitz keytar forage beard scenester, kitsch four loko 90's microdosing asymmetrical direct trade. Narwhal
-								health goth raw denim intelligentsia beard aesthetic. Keytar VHS schlitz, leggings pork belly XOXO synth viral
-								sartorial biodiesel. Aesthetic ennui wolf pabst, you probably haven't heard of them fap fashion axe butcher distillery.
-								Locavore kale chips butcher, you probably haven't heard of them ethical marfa readymade vice leggings franzen green
-								juice affogato organic. Meditation vinyl man braid kinfolk brunch, polaroid you probably haven't heard of them.
-								Pabst actually before they sold out humblebrag vegan stumptown..</p>
-						</div>
-					</div>
-
-
-		</main>
-
-
-
+</div>
 		<footer>
-			(c) Kelly Williams 2016
+			<div class="container">
+
+
+				(c) Kelly Williams 2016
+			</div>
 		</footer>
 
 

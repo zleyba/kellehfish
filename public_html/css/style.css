@@ -134,7 +134,10 @@ header {
 	color: inherit;
 }
 
-
+.collapsed ul {
+	background-color: #ffffff;
+	display: list-item;
+}
 
 .navbar .stitle {
 
