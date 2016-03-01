@@ -42,3 +42,23 @@ Because mobile wireframes are missing, I can only pass this Milestone 2&alpha; a
 
 #### Edits &amp; Suggestions
 - move the /css /img and /php directories at the site root inside of /public_html, otherwise delete them if they are not in use.
+
+### Milestone 2b Feedback
+Take a look at the notes we went over below, and check in with me or Skyler this week. After some cleanup, you should be ready to deploy to ASO next week.
+
+Your Milestone 2b passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+#### Edits &amp; Suggestions
+- Fix directory structure.
+- add contact form.
+- clean up html, nav, sticky footer structure.
+- clean up the CSS (one css file).
+- look at this example for reference: https://bootcamp-coders.cnm.edu/~rlewis37/bootstrap-sandbox-2/
+
+
+Set up ASO Host:
+- Go over https://bootcamp-coders.cnm.edu/class-materials/php/email/, add composer.json and mailer.php
+- enable shell access - chat live support and request them to enable this
+- Add your public SSH key (CPanel, SSH Access)
+- Add an email account, and add an email forwarder if you like :)
+- Create a new deployment in PhpStorm that uploads to ASO, and upload your site there.
