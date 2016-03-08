@@ -56,7 +56,6 @@ body {
 	padding: 0;
 	width: 100%;
 	padding-top: 80px;
-	height: 1000px;
 }
 
 header {
@@ -230,6 +229,13 @@ span.icon-bar {
 /*** modifies css for mobile-view menu ***/
 @media screen and (max-width: 775px) {
 	/* controls css for navigational links */
+
+
+	main {
+		margin-top: 100px;
+
+	}
+
 	nav ul {
 		text-align: center;
 
