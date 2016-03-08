@@ -62,7 +62,7 @@
 
 					<div class="col-xs-10">
 						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed bg" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
@@ -71,7 +71,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+						<div class="col-xs-12 collapse navbar-collapse" id="bs-navbar-collapse-1">
 
 							<ul class="nav">
 								<li class="item">
@@ -109,7 +109,7 @@
 
 		<main>
 
-				<!--gallery code starts here-->
+
 
 				<div class="container" id="box-container">
 
